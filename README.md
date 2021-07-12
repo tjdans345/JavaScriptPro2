@@ -4,6 +4,6 @@
     도움을 받을 수 있었음. 
   - 현재 진행중
   - 다른것들도 클론코딩해보기  
-
+  - 타입스크립트 및 jsx, tsx 공부 예정
 출처 : https://www.youtube.com/watch?v=hCHL7sydzn0&t=836s 
  
